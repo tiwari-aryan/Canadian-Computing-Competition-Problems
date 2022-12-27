@@ -95,10 +95,5 @@ int main(){
         cout << 1 << " " << sum;
     }
     else cout << max_count << " " << heights;
-
-
-
-    
-
-
+   
 }
