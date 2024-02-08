@@ -56,7 +56,5 @@ int main(){
             total += num;
         }
     }
-
     cout << total;
-
 }
