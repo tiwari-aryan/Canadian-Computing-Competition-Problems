@@ -5,6 +5,7 @@
         "list": "cpp",
         "ostream": "cpp",
         "cmath": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "xstring": "cpp"
     }
 }
